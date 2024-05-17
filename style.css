@@ -18,3 +18,14 @@ canvas{
     border-radius: 12px;
     border: 1px solid rgba(251,251,251,0.7);
 }
+canvas:hover{
+    box-shadow: none;
+    border-color: lightcyan;
+}
+h2{
+    text-align: center;
+    margin: 20px 0 -10px 0;
+    font-size: 28px;
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.4);
+}
