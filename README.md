@@ -1,6 +1,7 @@
 # Marvel Marbles  
 
-The script generates fancy colorful marbles for the sake of demonstrating how object oriented programming works. Resize the window to understand more and have fun watching them bouncing off  the bounderies defined.
+The script generates fancy colorful marbles for the sake of demonstrating how JavaScript OOP works. 
+Resize the window to understand more and have fun watching them bouncing off  the bounderies defined.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
