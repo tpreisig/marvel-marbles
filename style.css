@@ -20,7 +20,9 @@ canvas {
 }
 canvas:hover {
   box-shadow: none;
-  border: 2px solid rgb(133, 209, 1);
+  border: 2px solid rgba(255,255, 255, 0.4);
+  box-shadow: inset -20px -40px 60px rgba(0,20,20,0.2),
+  inset 20px 40px 60px rgba(0,20,20,0.2);
   cursor: none;
 }
 h2 {
@@ -35,4 +37,5 @@ p {
   line-height: 30px;
   padding: 5px 20px;
   color: rgb(133, 209, 1);
+  font-weight: 700;
 }
